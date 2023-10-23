@@ -1,7 +1,7 @@
 # Mg(OH)2-precipitation_1DModel-Tmixer
-Matlab code for the 1D solution of precipitation 
+MatLab code for the 1D solution of precipitation in static mixers (T- and Y-mixer)
 Test case for Mg(OH)2
-Population Balance Model (PNM), solved using the Quadrature Method of Moments (QMOM)
+The Population Balance Model (PBM) is solved using the Quadrature Method of Moments (QMOM)
 
 @article{Raponi2023_TMixer,
 author = {Raponi, Antonello and Romano, Salvatore and Battaglia, Giuseppe and Buffo, Antonio and Vanni, Marco and Cipollina, Andrea and Marchisio, Daniele},
