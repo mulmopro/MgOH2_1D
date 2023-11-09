@@ -3,6 +3,8 @@ MatLab code for the 1D solution of precipitation in static mixers (T- and Y-mixe
 Test case for Mg(OH)2
 The Population Balance Model (PBM) is solved using the Quadrature Method of Moments (QMOM)
 
+![T-Y](https://github.com/mulmopro/MgOH2_1D/assets/102947817/21c2a471-01ee-4b05-9983-cdf7733d51c3)
+
 @article{Raponi2023_TMixer,
 author = {Raponi, Antonello and Romano, Salvatore and Battaglia, Giuseppe and Buffo, Antonio and Vanni, Marco and Cipollina, Andrea and Marchisio, Daniele},
 title = {Computational Modeling of Magnesium Hydroxide Precipitation and Kinetics Parameters Identification},
