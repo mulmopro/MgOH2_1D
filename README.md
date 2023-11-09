@@ -27,3 +27,21 @@ To avoid unphysical results, global constrained optimization is used for kinetic
 The inferred kinetics set is validated by comparing PSDs at different operative conditions both in the T2mm-mixer and the T3mm-mixer. 
 The developed computational model, including the kinetics parameters estimated for the first time in this work, will be used for the design of a prototype for the industrial precipitation of Mg(OH)2 from saltwork brines 
 in an industrial environment.}}
+
+@article{Raponi2023_YMixer,
+   author = {Antonello Raponi and Ramona Achermann and Salvatore Romano and Silvio Trespi and Marco Mazzotti and Andrea Cipollina and Antonio Buffo and Marco Vanni and Daniele Marchisio},
+   doi = {10.1016/j.cej.2023.146540},
+   issn = {13858947},
+   journal = {Chemical Engineering Journal},
+   month = {10},
+   pages = {146540},
+   title = {Population balance modelling of magnesium hydroxide precipitation: Full validation on different reactor configurations},
+   year = {2023},
+
+   abstract = {In this paper, a predictive mono-dimensional (1D) model for Mg(OH)2 precipitation is proposed and its predictive capability is tested. 
+   Two different reactor configurations are analyzed and compared, namely a T-mixer and a Y-mixer followed by two consecutive diverging channels and a final coil of constant diameter. 
+   Both setups were chosen for their high mixing efficiency. The suspension samples were characterized by Dynamic Light Scattering (DLS), thus obtaining particle size distributions (PSD). 
+   The experimental data collected using the T-mixer was used to identify the kinetics parameters set, while the data obtained through the Y-mixer setup was employed to assess
+   the model predictive capability under different fluid dynamics conditions. Computational Fluid Dynamics (CFD) simulations were conducted to characterize the flow fields and the turbulence, which were integrated into the 1D model. 
+   Predictions were found to be in good agreement with the experimental data and further improved after introducing a novel correction factor for the aggregation kernel.}
+}
