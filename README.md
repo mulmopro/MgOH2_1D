@@ -34,6 +34,7 @@ The inferred kinetics set is validated by comparing PSDs at different operative 
 The developed computational model, including the kinetics parameters estimated for the first time in this work, will be used for the design of a prototype for the industrial precipitation of Mg(OH)2 from saltwork brines 
 in an industrial environment.}}
 
+## Y-Mixer
 @article{Raponi2023_YMixer,
    author = {Antonello Raponi and Ramona Achermann and Salvatore Romano and Silvio Trespi and Marco Mazzotti and Andrea Cipollina and Antonio Buffo and Marco Vanni and Daniele Marchisio},
    doi = {10.1016/j.cej.2023.146540},
