@@ -8,6 +8,7 @@ The Population Balance Model (PBM) is solved using the Quadrature Method of Mome
 # References
 If you use these codes for your research, we would be glad if you could cite our works:
 
+## T-Mixer
 @article{Raponi2023_TMixer,
 author = {Raponi, Antonello and Romano, Salvatore and Battaglia, Giuseppe and Buffo, Antonio and Vanni, Marco and Cipollina, Andrea and Marchisio, Daniele},
 title = {Computational Modeling of Magnesium Hydroxide Precipitation and Kinetics Parameters Identification},
