@@ -36,14 +36,16 @@ in an industrial environment.}}
 
 ## Y-Mixer
 @article{Raponi2023_YMixer,
-   title = {Population balance modelling of magnesium hydroxide precipitation: Full validation on different reactor configurations},
+title = {Population balance modelling of magnesium hydroxide precipitation: Full validation on different reactor configurations},
 journal = {Chemical Engineering Journal},
 volume = {477},
 pages = {146540},
 year = {2023},
 issn = {1385-8947},
+
 doi = {https://doi.org/10.1016/j.cej.2023.146540},
 url = {https://www.sciencedirect.com/science/article/pii/S1385894723052713},
+
 author = {Antonello Raponi and Ramona Achermann and Salvatore Romano and Silvio Trespi and Marco Mazzotti and Andrea Cipollina and Antonio Buffo and Marco Vanni and Daniele Marchisio},
 keywords = {Magnesium hydroxide, Aggregation, Predictive model, QMOM, Precipitation},
 abstract = {In this paper, a predictive mono-dimensional (1D) model for Mg(OH)2 precipitation is proposed and its predictive capability is tested. 
